@@ -1,0 +1,331 @@
+[{
+    "id": "p166",
+    "title": "Men's Formal Suit with Tie",
+    "price": "₹5299",
+    "offer": "18%",
+    "body": "A premium suit with a matching tie, offering a sophisticated look for formal events.",
+    "brand": "Ralph Lauren",
+    "img": "/Images/166.webp",
+    "category": ["fashion", "men", "formalwear"]    
+  },
+  {
+    "id": "p163",
+    "title": "Black Leather Hoodie",
+    "price": "₹3,599",
+    "offer": "6%",
+    "body": "A sleek black leather hoodie that combines style and comfort for a bold look.",
+    "brand": "Zara",
+    "img": "/Images/163.webp",
+    "category": ["clothing", "jackets", "men"]    
+  },
+  {
+    "id": "p160",
+    "title": "Green Parka Jacket with Fur Collar",
+    "price": "₹10,999",
+    "offer": "9%",
+    "body": "A stylish and warm parka jacket in green, featuring a cozy fur collar for added comfort.",
+    "brand": "Versace",
+    "img": "/Images/160.webp",
+    "category": ["clothing", "winterwear", "men"]    
+  },
+  {
+    "id": "p35",
+    "title": "Men's Suit and Tie",
+    "price": "₹85,599",
+    "offer": "5%",
+    "body": "Look sharp in this classic men's suit and tie, ideal for formal events.",
+    "brand": "Hugo Boss",
+    "img": "/Images/35.webp",
+    "category": ["fashion", "men"]    
+  },
+  {
+    "id": "p240",
+    "title": "Asus Gaming Laptop",
+    "price": "₹89,999",
+    "offer": "41%",
+    "body": "A high-performance Asus gaming laptop with a powerful GPU, ideal for gaming and multitasking.",
+    "brand": "Asus",
+    "img": "/Images/240.webp",
+    "category": ["electronics"]    
+  },
+  {
+    "id": "p44",
+    "title": "Black Leather Jacket with Sunglasses",
+    "price": "₹8,499",
+    "offer": "15%",
+    "body": "A stylish black leather jacket crafted from premium material, paired with classic sunglasses for a bold look.",
+    "brand": "Versace",
+    "img": "/Images/44.webp",
+    "category": ["topwear", "men"]    
+  },
+  {
+    "id": "p45",
+    "title": "Blue Sweater with Grey Pants",
+    "price": "₹4,299",
+    "offer": "38%",
+    "body": "A cozy blue sweater paired with comfortable grey pants, designed for a casual yet refined look.",
+    "brand": "Ralph Lauren",
+    "img": "/Images/45.webp",
+    "category": ["outfits", "men"]    
+  },
+  {
+    "id": "p46",
+    "title": "Grey Sweater with Black Pants",
+    "price": "₹2,999",
+    "offer": "25%",
+    "body": "A warm grey sweater matched with classic black pants, made with high-quality fabric for durability and comfort.",
+    "brand": "H&M",
+    "img": "/Images/46.webp",
+    "category": ["outfits", "men"]    
+  },
+  {
+    "id": "p47",
+    "title": "Red Hoodie",
+    "price": "₹3,799",
+    "offer": "30%",
+    "body": "A trendy red hoodie made from soft and breathable fabric, perfect for everyday wear.",
+    "brand": "Nike",
+    "img": "/Images/47.webp",
+    "category": ["topwear", "men"]    
+  },
+  {
+    "id": "p48",
+    "title": "White Shirt with Blue Pants",
+    "price": "₹7,499",
+    "offer": "20%",
+    "body": "A crisp white shirt paired with tailored blue pants, designed for a sharp and elegant appearance.",
+    "brand": "Prada",
+    "img": "/Images/48.webp",
+    "category": ["outfits", "men"]    
+  },
+  {
+    "id": "p30",
+    "title": "Men's Suit on Wooden Floor",
+    "price": "₹61,999",
+    "offer": "6%",
+    "body": "Make a statement with this classic men's suit, perfect for formal occasions.",
+    "brand": "Hugo Boss",
+    "img": "/Images/30.webp",
+    "category": ["fashion", "men"]    
+  },
+  {
+    "id": "p528",
+    "title": "Red Evening Dress",
+    "price": "₹7,179",
+    "offer": "10%",
+    "body": "An elegant red dress designed for evening parties and special events.",
+    "brand": "Puma",
+    "img": "/Images/528.webp",
+    "category": ["clothing", "dresses", "women"]    
+  },
+  {
+    "id": "p400",
+    "title": "Red Lace Bra",
+    "price": "₹1,299",
+    "offer": "15%",
+    "body": "A stylish and comfortable red lace bra, designed for a perfect fit and support with high-quality fabric.",
+    "brand": "Prada",
+    "img": "/Images/400.webp",
+    "category": ["clothing", "women", "innerwear"]    
+  },{
+    "id": "p490",
+    "title": "Elegant White Wedding Dress",
+    "price": "₹18,999",
+    "offer": "2%",
+    "body": "A beautifully designed white wedding dress with intricate lace details and a flowing silhouette.",
+    "brand": "Gucci",
+    "img": "/Images/490.webp",
+    "category": ["fashion", "women", "dresses"]    
+  },
+  {
+    "id": "p524",
+    "title": "Women's Yellow Leather Jacket",
+    "price": "₹10,999",
+    "offer": "20%",
+    "body": "A premium women's yellow leather jacket with a stylish fit, perfect for casual and winter wear.",
+    "brand": "Puma",
+    "img": "/Images/524.webp",
+    "category": ["outerwear", "fashion", "women"]    
+  },
+  {
+    "id": "p516",
+    "title": "Women's Pink Floral Dress",
+    "price": "₹7,599",
+    "offer": "15%",
+    "body": "A beautiful women's pink floral dress made of lightweight fabric, ideal for casual outings and summer events.",
+    "brand": "Zara",
+    "img": "/Images/516.webp",
+    "category": ["clothing", "fashion", "women"]    
+  },
+  {
+    "id": "p508",
+    "title": "Black Top with Short Hair Look",
+    "price": "₹4,999",
+    "offer": "18%",
+    "body": "A stylish black top made from premium fabric, offering a sleek and modern look for any occasion.",
+    "brand": "Dior",
+    "img": "/Images/508.webp",
+    "category": ["clothing", "women", "topwear"]    
+  },
+  {
+    "id": "p227",
+    "title": "Sony X-Series Smart TV",
+    "price": "₹43,199",
+    "offer": "58%",
+    "body": "A high-quality Sony X-Series Smart TV with stunning display.",
+    "brand": "Sony",
+    "img": "/Images/227.webp",
+    "category": ["electronics", "home", "entertainment"]    
+  },
+  {
+    "id": "p08",
+    "title": "Samsung Galaxy S20 Plus",
+    "price": "₹59,999",
+    "offer": "31%",
+    "body": "Experience cutting-edge technology with the Samsung Galaxy S20 Plus, featuring a stunning display and powerful performance.",
+    "brand": "Samsung",
+    "img": "/Images/08.webp",
+    "category": ["smartphone", "electronics", "mobile"]    
+  },
+  {
+    "id": "p09",
+    "title": "iPhone 11 Pro",
+    "price": "₹81,999",
+    "offer": "60%",
+    "body": "The iPhone 11 Pro offers a professional-grade camera system and exceptional battery life, perfect for photography enthusiasts.",
+    "brand": "Apple",
+    "img": "/Images/09.webp",
+    "category": ["smartphone", "electronics", "mobile", "gadgets"]    
+  },
+  {
+    "id": "p10",
+    "title": "iPhone 11 Concept Design",
+    "price": "₹10,199",
+    "offer": "64%",
+    "body": "Explore the futuristic design of the iPhone 11 Concept, blending innovation with style.",
+    "brand": "Apple",
+    "img": "/Images/10.webp",
+    "category": ["smartphone", "electronics", "mobile"]    
+  },
+  {
+    "id": "p11",
+    "title": "Realme X with Curved Design",
+    "price": "₹55,999",
+    "offer": "62%",
+    "body": "The Realme X features a sleek curved design and powerful performance, making it a standout smartphone.",
+    "brand": "Realme",
+    "img": "/Images/11.webp",
+    "category": ["smartphone", "electronics", "mobile", "gadgets"]    
+  },
+  {
+    "id": "p12",
+    "title": "LG Smartphone on Desk",
+    "price": "₹7,999",
+    "offer": "44%",
+    "body": "The LG smartphone, elegantly displayed on a desk, offers a seamless user experience and modern design.",
+    "brand": "LG",
+    "img": "/Images/12.webp",
+    "category": [
+      "smartphone",
+      "mobile",
+      "electronics"
+    ]    
+  },
+  {
+    "id": "p73",
+    "title": "Ergonomic Gaming Chair",
+    "price": "₹7999",
+    "offer": "20%",
+    "body": "A high-quality ergonomic gaming chair designed for comfort during long gaming sessions.",
+    "brand": "Sony",
+    "img": "/Images/73.webp",
+    "category": ["furniture", "gaming", "chair"]    
+  },
+  {
+    "id": "p274",
+    "title": "Gaming Mouse with LED Light",
+    "price": "₹1,599",
+    "offer": "6%",
+    "body": "A high-precision gaming mouse with blue LED lighting.",
+    "brand": "Logitech",
+    "img": "/Images/274.webp",
+    "category": ["electronics", "gaming", "accessories"]    
+  },{
+    "id": "p64",
+    "title": "Asus 24-inch Monitor",
+    "price": "₹12,999",
+    "offer": "10%",
+    "body": "A high-resolution 24-inch Asus monitor with vivid display and sleek design, ideal for gaming and professional use.",
+    "brand": "Asus",
+    "img": "/Images/64.webp",
+    "category": ["electronics", "monitor", "gaming"]    
+  },{
+    "id": "p95",
+    "title": "Wired Gaming Mouse with Red Light",
+    "price": "₹1,499",
+    "offer": "25%",
+    "body": "An ergonomic wired gaming mouse featuring a red LED light, precision tracking, and customizable buttons.",
+    "brand": "Logitech",
+    "img": "/Images/95.webp",
+    "category": ["electronics", "gaming", "accessories"]    
+  }, {
+    "id": "p264",
+    "title": "Gaming Controller for PC",
+    "price": "₹3,899",
+    "offer": "34%",
+    "body": "An ergonomic and responsive gaming controller designed for PC gaming and seamless gameplay experience.",
+    "brand": "Logitech",
+    "img": "/Images/264.webp",
+    "category": ["gaming", "electronics", "accessories"]    
+  },
+  {
+    "id": "p60",
+    "title": "Purple & Black Gaming Chair",
+    "price": "₹5599",
+    "offer": "30%",
+    "body": "A stylish gaming chair with a purple and black color scheme, ensuring comfort and support.",
+    "brand": "Home Depot",
+    "img": "/Images/60.webp",
+    "category": ["furniture", "gaming", "chair"]    
+  },
+  {
+    "id": "p230",
+    "title": "Ultra HD Smart TV",
+    "price": "₹37,999",
+    "offer": "51%",
+    "body": "A 4K Ultra HD Smart TV with vibrant colors, built-in streaming apps, and voice control support.",
+    "brand": "Sony",
+    "img": "/Images/230.webp",
+    "category": ["electronics"]    
+  },
+  {
+    "id": "p224",
+    "title": "Smart TV with Wall Mount",
+    "price": "₹74,999",
+    "offer": "33%",
+    "body": "A sleek smart TV with a wall-mounted design, featuring 4K resolution and high-quality sound.",
+    "brand": "Hisense",
+    "img": "/Images/224.webp",
+    "category": ["electronics"]    
+  },
+  {
+    "id": "p14",
+    "title": "Wall-Mounted TV in Living Room",
+    "price": "₹25,199",
+    "offer": "40%",
+    "body": "Enhance your living room with a sleek wall-mounted TV, offering stunning visuals and immersive entertainment.",
+    "brand": "Sony",
+    "img": "/Images/14.webp",
+    "category": ["electronics"]    
+  },
+  {
+    "id": "p94",
+    "title": "Wireless Gaming Mouse",
+    "price": "₹7,999",
+    "offer": "43%",
+    "body": "A high-precision wireless gaming mouse with an ergonomic design and customizable buttons.",
+    "brand": "HyperX",
+    "img": "/Images/94.webp",
+    "category": ["electronics"]    
+  }
+]

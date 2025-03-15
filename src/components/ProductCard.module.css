@@ -1,0 +1,21 @@
+.favBtn {
+  animation: Animate 3s ease-in-out infinite;
+}
+
+@keyframes Animate {
+  0% {
+    color: white;
+  }
+  25% {
+    color: red;
+  }
+  50% {
+    color: rgb(0, 89, 0);
+  }
+  75% {
+    color: rgb(0, 8, 99);
+  }
+  100% {
+    color: white;
+  }
+}
