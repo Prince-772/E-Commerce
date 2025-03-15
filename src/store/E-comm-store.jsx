@@ -14,7 +14,7 @@ function ECommerceProvider({ children }) {
         setGettingProducts(true);
         const response = await fetch("/caption.json", { signal });
         let products = await response.json();
-        products = products.filter(item => item.category.some(cat => cat === "men" || cat === "man")).slice(0,10)
+        // products = products.filter(item => item.category.some(cat => cat === "men" || cat === "man")).slice(0,10)
         setGettingProducts(false);
         setProductList(products);
       } catch (err) {
